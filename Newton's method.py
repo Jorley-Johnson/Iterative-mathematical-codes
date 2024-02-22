@@ -27,6 +27,8 @@ print(newton())
 end = time.perf_counter()
 print("Elapsed = {} seconds".format((end - start)))
 
+"""
 Output:
 0.5635692042255157
 Elapsed = 0.5257951349994983 seconds
+"""
